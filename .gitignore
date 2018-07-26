@@ -1,2 +1,4 @@
-todoapp/
+todoapp/ 
+db.sqlite3
+migrations/
 *.pyc
